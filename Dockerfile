@@ -1,4 +1,4 @@
-FROM docker-base-dev:latest
+FROM hhcordero/docker-centos-base-dev:latest
 
 MAINTAINER DDTech
 
